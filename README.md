@@ -1,1 +1,0 @@
-# Indexao-Geoespacial
